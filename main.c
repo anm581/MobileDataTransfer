@@ -10,7 +10,18 @@ void PopUpVenta(){
 
 int main() {
   printf("Hola, Mundo!");
+<<<<<<< HEAD
   PopUpCompra();
   PopUpVenta();
+=======
+  diseñolobby();
+>>>>>>> Diseño_de_Lobby
   return 0;
+}
+
+void diseñolobby() {
+  printf("Diseño de lobby día 1");
+  printf("Diseño de lobby día 2");
+  printf("Diseño de lobby día 3");
+  return(0);
 }

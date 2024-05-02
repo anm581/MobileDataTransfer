@@ -8,9 +8,14 @@ void PopUpVenta(){
   printf("Programación del Pop Up de confirmación de la venta");
 }
 
+void ImagenLobby(){
+  printf("Diseno del lobby día 1");
+}
+
 int main() {
   printf("Hola, Mundo!");
   PopUpCompra();
   PopUpVenta();
+  ImagenLobby();
   return 0;
 }

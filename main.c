@@ -36,13 +36,12 @@ void disenofacturadecompra () {
 void Disenofacturacompra(){
   printf("Diseño de la factura de compra");
 }
-void disenofacturadeventa(){
-   printf("disenofacturadeventa");
 
-  printf("disenofacturadecompra");
-  printf("disenofacturadecompradia2");
-  printf("disenofacturadecompradia3");
-  printf("disenofacturadecompradia4");
+void disenofacturadeventa(){
+  printf("disenofacturadeventa");
+  printf("disenofacturadeventa2");
+  printf("disenofacturadeventa3");
+  printf("disenofacturadeventa4");
 }
 
 void fun_lobby(){
@@ -59,6 +58,15 @@ void disenointerfazdeseguimiento(){
   printf("Diseno de interfaz de seguimiento dia 3");
 }
 
+void ImagenLobby(){
+  printf("Diseno del lobby día 1");
+  printf("Diseno del lobby día 2");
+  printf("Diseno del lobby día 3");
+  printf("Diseno del lobby día 4");
+  printf("Diseno del lobby día 5");
+  printf("Diseno del lobby día 6");
+}
+
 int main() {
   printf("Hola, Mundo!");
   PopUpCompra();
@@ -70,5 +78,6 @@ int main() {
   Disenofacturacompra();
   disenofacturadeventa();
   disenointerfazdeseguimiento();
+  ImagenLobby();
   return 0;
 }

@@ -14,6 +14,7 @@ void diseñosignin(){
 }
 
 void disenofacturadecompra () {
+<<<<<<< HEAD
      printf("disenofacturadecompra");
      printf("disenofacturadecompradia2");
      printf("disenofacturadecompradia3");
@@ -26,6 +27,21 @@ void Disenofacturacompra(){
 void disenofacturadeventa(){
    printf("disenofacturadeventa");
 
+=======
+  printf("disenofacturadecompra");
+  printf("disenofacturadecompradia2");
+  printf("disenofacturadecompradia3");
+  printf("disenofacturadecompradia4");
+}
+
+void fun_lobby(){
+  printf("Funcionamiento de Lobby día 1");
+  printf("Funcionamiento de Lobby día 2");
+  printf("Funcionamiento de Lobby día 3");
+  printf("Funcionamiento de Lobby día 4");
+  printf("Funcionamiento de Lobby día 5");
+  printf("Funcionamiento de Lobby día 6");
+>>>>>>> funcionamiento_lobby
 }
 
 int main() {
@@ -36,9 +52,12 @@ int main() {
   diseñosignin();
   disenofacturadecompra();
   diseñolobby();
+<<<<<<< HEAD
   ter_con_cuenta();
   Disenofacturacompra();
   disenofacturadeventa();
+=======
+>>>>>>> funcionamiento_lobby
   return 0;
 }
 
@@ -46,6 +65,7 @@ void diseñolobby() {
   printf("Diseño de lobby día 1");
   printf("Diseño de lobby día 2");
   printf("Diseño de lobby día 3");
+<<<<<<< HEAD
   return 0;
 }
 
@@ -55,3 +75,7 @@ void  ter_con_cuenta(){
  printf("Terminos y Condiciones de cuenta dia 3");
  return(0);
 }
+=======
+  return(0);
+}
+>>>>>>> funcionamiento_lobby

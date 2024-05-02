@@ -64,6 +64,7 @@ void ImagenLobby(){
 
 void ImagenSignIn(){
   printf("Diseño de Sign In día 1");
+  printf("Diseño de Sign In día 2");
 }
 
 int main() {

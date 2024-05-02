@@ -9,7 +9,8 @@ void PopUpVenta(){
 }
 
 void diseñosignin(){
-  printf("Programación del Pop Up de confirmación de la venta");
+  printf("Diseño Sign In Día 1");
+  printf("Diseño Sign In Día 2");
 }
 
 int main() {

@@ -55,6 +55,7 @@ void fun_lobby(){
 }
 void disenointerfazdeseguimiento(){
   printf("Diseno de interfaz de seguimiento dia 1");
+  printf("Diseno de interfaz de seguimiento dia 2");
 }
 
 int main() {

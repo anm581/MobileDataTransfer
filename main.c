@@ -54,6 +54,7 @@ void fun_lobby(){
 
 void fun_signin{
   printf("Funcionamiento de Sign In día 1");
+  printf("Funcionamiento de Sign In día 2");
 }
 
 int main() {

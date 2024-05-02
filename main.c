@@ -4,6 +4,7 @@ void disenofacturadecompra () {
      printf("disenofacturadecompra");
      printf("disenofacturadecompradia2");
      printf("disenofacturadecompradia3");
+     printf("disenofacturadecompradia4");
 
 }
 

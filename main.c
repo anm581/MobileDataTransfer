@@ -53,6 +53,9 @@ void fun_lobby(){
   printf("Funcionamiento de Lobby día 5");
   printf("Funcionamiento de Lobby día 6");
 }
+void disenointerfazdeseguimiento(){
+  printf("Diseno de interfaz de seguimiento dia 1");
+}
 
 int main() {
   printf("Hola, Mundo!");
@@ -64,5 +67,6 @@ int main() {
   ter_con_cuenta();
   Disenofacturacompra();
   disenofacturadeventa();
+  disenointerfazdeseguimiento();
   return 0;
 }

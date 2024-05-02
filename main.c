@@ -13,6 +13,7 @@ void ImagenLobby(){
   printf("Diseno del lobby día 2");
   printf("Diseno del lobby día 3");
   printf("Diseno del lobby día 4");
+  printf("Diseno del lobby día 5");
 }
 
 int main() {

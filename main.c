@@ -26,6 +26,7 @@ void fun_lobby(){
   printf("Funcionamiento de Lobby día 3");
   printf("Funcionamiento de Lobby día 4");
   printf("Funcionamiento de Lobby día 5");
+  printf("Funcionamiento de Lobby día 6");
 }
 
 int main() {

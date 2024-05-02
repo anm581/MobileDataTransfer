@@ -2,6 +2,7 @@
 
 void disenofacturadecompra () {
      printf("disenofacturadecompra");
+     printf("disenofacturadecompradia2");
 
 }
 

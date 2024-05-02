@@ -8,6 +8,11 @@ void PopUpVenta(){
   printf("Programación del Pop Up de confirmación de la venta");
 }
 
+void diseñosignin(){
+  printf("Diseño Sign In Día 1");
+  printf("Diseño Sign In Día 2");
+}
+
 void disenofacturadecompra () {
      printf("disenofacturadecompra");
      printf("disenofacturadecompradia2");
@@ -20,6 +25,8 @@ int main() {
   printf("Hola, Mundo!");
   PopUpCompra();
   PopUpVenta();
+  diseñolobby();
+  diseñosignin();
   disenofacturadecompra();
   diseñolobby();
   ter_con_cuenta();

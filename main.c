@@ -8,14 +8,16 @@ void PopUpVenta(){
   printf("Programación del Pop Up de confirmación de la venta");
 }
 
+void diseñosignin(){
+  printf("Programación del Pop Up de confirmación de la venta");
+}
+
 int main() {
   printf("Hola, Mundo!");
-<<<<<<< HEAD
   PopUpCompra();
   PopUpVenta();
-=======
   diseñolobby();
->>>>>>> Diseño_de_Lobby
+  diseñosignin();
   return 0;
 }
 

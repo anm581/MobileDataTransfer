@@ -37,8 +37,6 @@ void Disenofacturacompra(){
   printf("Diseño de la factura de compra");
 }
 void disenofacturadeventa(){
-   printf("disenofacturadeventa");
-
   printf("disenofacturadecompra");
   printf("disenofacturadecompradia2");
   printf("disenofacturadecompradia3");
@@ -54,6 +52,10 @@ void fun_lobby(){
   printf("Funcionamiento de Lobby día 6");
 }
 
+void fun_signin{
+  printf("Funcionamiento de Sign In día 1");
+}
+
 int main() {
   printf("Hola, Mundo!");
   PopUpCompra();
@@ -64,5 +66,6 @@ int main() {
   ter_con_cuenta();
   Disenofacturacompra();
   disenofacturadeventa();
+  fun_signin();
   return 0;
 }

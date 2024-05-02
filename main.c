@@ -30,6 +30,7 @@ int main() {
   disenofacturadecompra();
   diseñolobby();
   ter_con_cuenta();
+  ter_con_venta();
   return 0;
 }
 
@@ -45,4 +46,9 @@ void  ter_con_cuenta(){
  printf("Terminos y Condiciones de cuenta dia 2");
  printf("Terminos y Condiciones de cuenta dia 3");
  return(0);
+}
+
+void ter_con_venta(){
+  printf("Termninos y Condiciones de venta dia 1");
+  return(0);
 }

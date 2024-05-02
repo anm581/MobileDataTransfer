@@ -9,5 +9,6 @@ int main() {
 void diseñolobby() {
   printf("Diseño de lobby día 1");
   printf("Diseño de lobby día 2");
+  printf("Diseño de lobby día 3");
   return(0);
 }

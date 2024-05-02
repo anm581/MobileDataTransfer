@@ -36,13 +36,12 @@ void disenofacturadecompra () {
 void Disenofacturacompra(){
   printf("Diseño de la factura de compra");
 }
-void disenofacturadeventa(){
-   printf("disenofacturadeventa");
 
-  printf("disenofacturadecompra");
-  printf("disenofacturadecompradia2");
-  printf("disenofacturadecompradia3");
-  printf("disenofacturadecompradia4");
+void disenofacturadeventa(){
+  printf("disenofacturadeventa");
+  printf("disenofacturadeventa2");
+  printf("disenofacturadeventa3");
+  printf("disenofacturadeventa4");
 }
 
 void fun_lobby(){
@@ -52,6 +51,15 @@ void fun_lobby(){
   printf("Funcionamiento de Lobby día 4");
   printf("Funcionamiento de Lobby día 5");
   printf("Funcionamiento de Lobby día 6");
+}
+
+void ImagenLobby(){
+  printf("Diseno del lobby día 1");
+  printf("Diseno del lobby día 2");
+  printf("Diseno del lobby día 3");
+  printf("Diseno del lobby día 4");
+  printf("Diseno del lobby día 5");
+  printf("Diseno del lobby día 6");
 }
 
 int main() {
@@ -64,5 +72,6 @@ int main() {
   ter_con_cuenta();
   Disenofacturacompra();
   disenofacturadeventa();
+  ImagenLobby();
   return 0;
 }

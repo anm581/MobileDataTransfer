@@ -22,6 +22,7 @@ int main() {
   PopUpVenta();
   disenofacturadecompra();
   diseñolobby();
+  ter_con_cuenta();
   return 0;
 }
 
@@ -29,5 +30,12 @@ void diseñolobby() {
   printf("Diseño de lobby día 1");
   printf("Diseño de lobby día 2");
   printf("Diseño de lobby día 3");
-  return(0);
+  return 0;
+}
+
+void  ter_con_cuenta(){
+ printf("Terminos y Condiciones de cuenta");
+ printf("Terminos y Condiciones de cuenta dia 2");
+ printf("Terminos y Condiciones de cuenta dia 3");
+ return(0);
 }

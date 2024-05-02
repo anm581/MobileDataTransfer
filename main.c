@@ -49,8 +49,9 @@ void  ter_con_cuenta(){
 }
 
 void ter_con_venta(){
-  printf("Termninos y Condiciones de venta dia 1");
-  printf("Termninos y Condiciones de venta dia 2");
-  printf("Termninos y Condiciones de venta dia 3");
+  printf("Terminos y Condiciones de venta dia 1");
+  printf("Terminos y Condiciones de venta dia 2");
+  printf("Terminos y Condiciones de venta dia 3");
+  printf("Terminos y Condiciones de venta dia 4");
   return(0);
 }

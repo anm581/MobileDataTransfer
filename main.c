@@ -8,5 +8,6 @@ int main() {
 
 void  ter_con_cuenta(){
  printf("Terminos y Condiciones de cuenta");
+ printf("Terminos y Condiciones de cuenta dia 2");
  return(0);
 }

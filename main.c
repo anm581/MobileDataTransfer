@@ -5,7 +5,8 @@ void PopUpCompra(){
 }
 
 void fun_lobby(){
-  printf("Funcionamiento de lobby");
+  printf("Funcionamiento de lobby día 1");
+  printf("Funcionamiento de lobby día 2");
 }
 
 int main() {

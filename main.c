@@ -62,6 +62,10 @@ void ImagenLobby(){
   printf("Diseno del lobby día 6");
 }
 
+void ImagenSignIn(){
+  printf("Diseño de Sign In día 1");
+}
+
 int main() {
   printf("Hola, Mundo!");
   PopUpCompra();
@@ -73,5 +77,6 @@ int main() {
   Disenofacturacompra();
   disenofacturadeventa();
   ImagenLobby();
+  ImagenSignIn();
   return 0;
 }

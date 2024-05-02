@@ -18,7 +18,10 @@ void disenofacturadecompra () {
      printf("disenofacturadecompradia2");
      printf("disenofacturadecompradia3");
      printf("disenofacturadecompradia4");
+}
 
+void Disenofacturacompra(){
+  printf("Diseño de la factura de compra");
 }
 
 int main() {
@@ -30,6 +33,7 @@ int main() {
   disenofacturadecompra();
   diseñolobby();
   ter_con_cuenta();
+  Disenofacturacompra();
   return 0;
 }
 

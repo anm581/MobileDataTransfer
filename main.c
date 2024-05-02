@@ -11,6 +11,7 @@ void PopUpVenta(){
 void ImagenLobby(){
   printf("Diseno del lobby día 1");
   printf("Diseno del lobby día 2");
+  printf("Diseno del lobby día 3");
 }
 
 int main() {

@@ -14,6 +14,7 @@ void ImagenLobby(){
   printf("Diseno del lobby día 3");
   printf("Diseno del lobby día 4");
   printf("Diseno del lobby día 5");
+  printf("Diseno del lobby día 6");
 }
 
 int main() {

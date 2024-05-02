@@ -20,6 +20,10 @@ void disenofacturadecompra () {
      printf("disenofacturadecompradia4");
 
 }
+void disenofacturadeventa(){
+   printf("disenofacturadeventa");
+
+}
 
 int main() {
   printf("Hola, Mundo!");
@@ -30,6 +34,7 @@ int main() {
   disenofacturadecompra();
   diseñolobby();
   ter_con_cuenta();
+  disenofacturadeventa();
   return 0;
 }
 
